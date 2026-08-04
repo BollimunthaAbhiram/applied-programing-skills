@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/BollimunthaAbhiram/applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/BollimunthaAbhiram/applied-programing-skills/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/BollimunthaAbhiram/applied-programing-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/BollimunthaAbhiram/applied-programing-skills/tree/master/0997-find-the-town-judge) |
 | [1480-running-sum-of-1d-array](https://github.com/BollimunthaAbhiram/applied-programing-skills/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/BollimunthaAbhiram/applied-programing-skills/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/BollimunthaAbhiram/applied-programing-skills/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/BollimunthaAbhiram/applied-programing-skills/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
