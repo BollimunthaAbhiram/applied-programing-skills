@@ -4,13 +4,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/BollimunthaAbhiram/applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
 | [0997-find-the-town-judge](https://github.com/BollimunthaAbhiram/applied-programing-skills/tree/master/0997-find-the-town-judge) |
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/BollimunthaAbhiram/applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
 | [0997-find-the-town-judge](https://github.com/BollimunthaAbhiram/applied-programing-skills/tree/master/0997-find-the-town-judge) |
 ## Graph Theory
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/BollimunthaAbhiram/applied-programing-skills/tree/master/0997-find-the-town-judge) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/BollimunthaAbhiram/applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
